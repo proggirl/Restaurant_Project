@@ -1,0 +1,10 @@
+D:\C#\Restaurant_Project1\Restaurant_Project1\bin\Debug\Restaurant_Project1.exe.config
+D:\C#\Restaurant_Project1\Restaurant_Project1\bin\Debug\Restaurant_Project1.exe
+D:\C#\Restaurant_Project1\Restaurant_Project1\bin\Debug\Restaurant_Project1.pdb
+D:\C#\Restaurant_Project1\Restaurant_Project1\obj\Debug\Restaurant_Project1.csproj.AssemblyReference.cache
+D:\C#\Restaurant_Project1\Restaurant_Project1\obj\Debug\Restaurant_Project1.Form1.resources
+D:\C#\Restaurant_Project1\Restaurant_Project1\obj\Debug\Restaurant_Project1.Properties.Resources.resources
+D:\C#\Restaurant_Project1\Restaurant_Project1\obj\Debug\Restaurant_Project1.csproj.GenerateResource.cache
+D:\C#\Restaurant_Project1\Restaurant_Project1\obj\Debug\Restaurant_Project1.csproj.CoreCompileInputs.cache
+D:\C#\Restaurant_Project1\Restaurant_Project1\obj\Debug\Restaurant_Project1.exe
+D:\C#\Restaurant_Project1\Restaurant_Project1\obj\Debug\Restaurant_Project1.pdb
